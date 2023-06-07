@@ -1,0 +1,7 @@
+C:\Users\stella.gmendonca\source\repos\Exercício06\Exercício06\obj\Debug\Exercício06.csproj.CoreCompileInputs.cache
+C:\Users\stella.gmendonca\source\repos\Exercício06\Exercício06\bin\Debug\Exercício06.exe.config
+C:\Users\stella.gmendonca\source\repos\Exercício06\Exercício06\bin\Debug\Exercício06.exe
+C:\Users\stella.gmendonca\source\repos\Exercício06\Exercício06\bin\Debug\Exercício06.pdb
+C:\Users\stella.gmendonca\source\repos\Exercício06\Exercício06\obj\Debug\Exercício06.exe
+C:\Users\stella.gmendonca\source\repos\Exercício06\Exercício06\obj\Debug\Exercício06.pdb
+C:\Users\stella.gmendonca\source\repos\Exercício06\Exercício06\obj\Debug\Exercício06.csproj.AssemblyReference.cache
